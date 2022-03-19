@@ -6,7 +6,7 @@ picom &
 
 setxkbmap -model pc104 -layout us,il -option grp:win_space_toggle &
 
-sxhkd -c ./sxhkdrc &
+sxhkd -c ~/X11-scripts/sxhkdrc &
 
 exec dwm 
 

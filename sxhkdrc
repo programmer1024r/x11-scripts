@@ -5,3 +5,5 @@ super + w
 Print
     escrotum -s -C
 
+super + p
+    ~/X11-scripts/powermenu
